@@ -1,0 +1,20 @@
+{
+    "telegram_token": "8929914343:AAGglyRWEh80ol0QFk11pdDO7gYSEBwzx_I",
+    "telegram_chat_id": "2119348089",
+	"update_url": "https://raw.githubusercontent.com/clanhater/uclv-service-releases/main/version.json",
+    "download_dir": "D:\\Proyectos\\Descargador_Visuales\\UCLV_Service\\downloads",
+    "workers": 2,
+    "solo_videos": false,
+    "verificar_espacio": true,
+    "limite_kbps": 0,
+    "proxy_enabled": false,
+    "proxy_host": "",
+    "proxy_port": "",
+    "proxy_user": "",
+    "proxy_pass": "",
+    "usb_secret_key": "LLAVE_SECRETA_UCLV_2026",
+    "usb_target_folder": "Descargas_UCLV",
+    "favoritos": {
+        "The Boys": "https://visuales.uclv.cu/Series/Ingles/The%20Boys/"
+    }
+}
